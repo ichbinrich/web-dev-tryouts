@@ -1,4 +1,4 @@
 markdown: redcarpet
 baseurl: /web-dev-tryouts
-exclude: README.md
+exclude: ['README.md']
 theme: jekyll-theme-cayman
