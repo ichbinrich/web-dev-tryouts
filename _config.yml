@@ -1,3 +1,4 @@
-title: Web Test of Different Things
-theme: jekyll-theme-cayman
+title: Web Test of Different Stuff
 markdown: GFM
+baseurl: "/"
+exclude: ['README.md']
