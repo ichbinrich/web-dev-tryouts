@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About | Web Test of Different Stuff
+title: "About | Web Test of Different Stuff"
 ---
 ## About
 Using Markdown and Jekyll
